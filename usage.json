@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-ops-pack",
+  "packageVersion": "3.0.3",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-ops-pack",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-ops-pack",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "Build a scoped request from the bundled acceptance universe",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:45:27.496002+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "b6236abad839d28919a5767223b38c49b197500f3de593fd7ffca5a821c5c124",
+    "manifestSha256": "5ad89ba15b022a875ad8793476d94438e983d77b1fe37329c298e4b27ae733aa"
+  },
+  "validationFiles": {
+    "src/index.mjs": "b6236abad839d28919a5767223b38c49b197500f3de593fd7ffca5a821c5c124"
+  }
+}
